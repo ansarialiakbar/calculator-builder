@@ -28,7 +28,7 @@ Calculator Builder is a React-based project that allows users to create a custom
 
 1. Clone the Repository
 
-git clone https://github.com/yourusername/calculator-builder.git
+git clone https://github.com/ansarialiakbar/calculator-builder.git
 cd calculator-builder
 
 2. Install Dependencies
